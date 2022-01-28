@@ -1,3 +1,2 @@
-Esto es un test nuevo jeje
-
-Vamos a ver si resolvemos conflictos
+Haciendo cambios para subir en la rama del desarrollador
+RESOLVIMOS CONFLICTOS!!
